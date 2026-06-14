@@ -4,7 +4,6 @@ A full-stack, AI-powered Customer Relationship Management (CRM) platform built w
 This project demonstrates customer segmentation, campaign management, order ingestion, and vendor integration with webhooks.
 
 ---
-### 📽️Video Link: https://youtu.be/1FLkMiKxVgk
 ### 🔗Deployed Link: https://smartsphere.vercel.app
 ---
 ## Features

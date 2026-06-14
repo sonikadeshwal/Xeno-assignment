@@ -1,4 +1,4 @@
-# Smart-Sphere ( Xeno AI SDE Internship Assignment)
+ ( Xeno AI SDE Internship Assignment)
 
 A full-stack, AI-powered Customer Relationship Management (CRM) platform built with Next.js 14 (App Router), MongoDB, NextAuth, shadcn/ui, and Groq.  
 This project demonstrates customer segmentation, campaign management, order ingestion, and vendor integration with webhooks.

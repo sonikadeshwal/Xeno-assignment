@@ -139,6 +139,4 @@ Visit [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Contact
 
-Made by Ansh Jain  
-[GitHub](https://github.com/AnshJain9159/Xeno-Assignment)
-[LinkedIn](https://www.linkedin.com/in/ansh-jain-78986b242/)
+Made by Sonika Deshwal  
